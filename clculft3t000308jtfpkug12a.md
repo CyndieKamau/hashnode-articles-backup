@@ -1,6 +1,6 @@
 ---
 title: "How to Create an AWS Site-to-Site VPN Connection Part Two: Network Architecture"
-datePublished: Fri Jan 13 2023 14:07:08 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Oct 12 2023 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clculft3t000308jtfpkug12a
 slug: how-to-create-an-aws-site-to-site-vpn-connection-part-two-network-architecture
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673616787412/0debf0ce-e5c6-4cfb-b7eb-5fb6ffb51942.jpeg
